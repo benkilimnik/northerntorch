@@ -10,6 +10,8 @@ User and Admin guides can be found below, detailing the functionality of the app
 - [Admin Guide](https://drive.google.com/file/d/1e4Xdz0jw9Ty9PH5mH0DxVbdFQ9PssB02/view)
 - [User Guide](https://drive.google.com/file/d/1pwZdyXa7bznWxFOkNnKpS2lvCwZ6MR2g/view?usp=sharing)  
 
+![northerntorchapp](https://user-images.githubusercontent.com/47846691/147623593-2170c924-95b1-4ca3-949e-a3be63aaf210.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
