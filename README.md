@@ -1,6 +1,6 @@
 # Custom Web-App for Northern Torch Consulting
+- Enables users to take assessments given an access code and view data visualizations of their results. 
 - Webapp built for the founder of the [Justice and Soul Foundation](https://justiceandsoul.org/) to support his educational workshops and freelance consulting in Cambodia
-- Is a react app that allows users to take assessments given an access code and view data visualizations of their results. 
 - Leveraged React, ChartJS, the Ant Design ui framework, and custom css  
 - Created custom backend code (NodeJS) to interface between React application and the Google Firebase cloud database system
 - Deployed production build to hosted web server at https://northerntorch.com
